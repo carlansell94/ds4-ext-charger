@@ -1,9 +1,11 @@
 A compact board that adds USB charging capability to the Dualshock 4's EXT port.
 
 Features:
-* Choice of either a micro USB or USB C port.
+* Choice of either a micro USB or USB C port. (Combined version only)
 * Includes pads for 5.1k&#937; resistors, to allow the use of 'smart' chargers (USB C only).
 * No alteration to the outside of the controller is necessary.
+
+A USB C only version of the board is also available, which removes the need to solder the jumper.
 
 Included in this repository are the KiCAD files for this design. If you're only interested in having the board manufactured, gerbers are available under 'releases'.
 
